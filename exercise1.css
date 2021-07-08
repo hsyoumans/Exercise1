@@ -2,7 +2,7 @@ body {
     background-color: white;
     padding-top: 70px;
 }
-
+/* format the main part of the document */
 main{
     background-color: rgb(228 240 248);
     border-radius: 15px;
